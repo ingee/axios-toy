@@ -1,4 +1,4 @@
-api-server project generation
+# How api-server is created
 ```
 $ npm install -g express-generator
 $ create api-server
@@ -8,7 +8,7 @@ $ npm install --save-dev nodemon
 # Add 'devstart' and 'serverstart' scripts in package.json
 ```
 
-Usage
+# Usage
 ```
 ### At api-server directory,
 $ npm run serverstart
