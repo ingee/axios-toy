@@ -11,6 +11,18 @@ $ npm install --save axios
 ```
 
 # Usage
+```
+### In one terminal
+cd ../api-server
+npm run serverstart
+
+### In another terminal (in ./axios-client directory)
+npm run serve
+  ### Connect to localhost:8080 in browser
+  ### Click 'Click Me!' button and check badge
+```
+
+# vue-cli crated USAGE
 ## Project setup
 ```
 npm install
